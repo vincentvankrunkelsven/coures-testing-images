@@ -40,7 +40,7 @@ ggplot(movies, aes(x = runtime, y = rating, col = genre)) + geom_point()
 ```
 
 *** =sct
-```{r}
+``` {r}
 # The sct section defines the Submission Correctness Tests (SCTs) used to
 # evaluate the student's response. All functions used here are defined in the 
 # testwhat R package
