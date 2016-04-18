@@ -25,7 +25,7 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 Have a look at the plot. Which color does the point with the lowest rating have?
 
 *** =pre_exercise_code
-```{r}
+``` {r}
 # The pre exercise code runs code to initialize the user's workspace. You can use it for several things:
 
 # 1. Preload a dataset. The code below will read the csv that is stored at the URL's location.
