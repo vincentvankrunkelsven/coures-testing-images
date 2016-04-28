@@ -145,5 +145,5 @@ test_function("plot", args = "col")
 test_error()
 
 # Final message the student will see upon completing the exercise
-success_msg("Good work!") 
+success_msg("Good work!")
 ```
