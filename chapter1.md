@@ -153,7 +153,7 @@ success_msg("Good work!")
 --- type:NormalExercise lang:r xp:100 skills:1 key:e6d8313d3f
 ## Even more movies
 
-In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
+Nice thing.
 
 A dataset with a selection of movies, `movie_selection`, is available in the workspace.
 
