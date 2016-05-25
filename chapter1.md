@@ -233,7 +233,7 @@ test_function("plot", args = "y")
 test_function("plot", args = "col")
 
 # Alternativeley, you can use test_function() like this
-# test_function("plot", args = c"x", "y", "col"))
+test_function("plot", args = c"x", "y", "col"))
 
 # It's always smart to include the following line of code at the end of your SCTs
 # It will check whether executing the student's code resulted in an error, 
